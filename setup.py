@@ -11,6 +11,7 @@ setuptools.setup(
     description="A small example package",
     long_description=long_description,
     url="https://github.com/wsucougpy/package-demo",
+    long_description_content_type="text/markdown",
     packages=setuptools.find_packages(),
     install_requires=[
        'numpy'
