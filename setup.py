@@ -10,7 +10,7 @@ setuptools.setup(
     author_email="cougpy@gmail.com",
     description="A small example package",
     long_description=long_description,
-    url="https://github.com/wsucougpy/package_tutorial",
+    url="https://github.com/wsucougpy/package-demo",
     packages=setuptools.find_packages(),
     install_requires=[
        'numpy'
